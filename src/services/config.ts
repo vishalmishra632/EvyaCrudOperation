@@ -1,2 +1,2 @@
-const API_URL = 'https://your-backend-url.vercel.app';
+const API_URL = 'https://evya-crud-operations-api.vercel.app/';
 export default API_URL;
